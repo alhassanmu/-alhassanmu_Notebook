@@ -17,7 +17,7 @@ https://github.com/alhassanmu/-alhassanmu_Notebook
 
 
 ## <center>Alhassan Mukaila</center>
-<center>Department of Marine Biology</center>
+<center>Department of Marine Sciences</center>
 <center>University of Haifa </center>
 <center>Abba Khoushy Ave 199, Haifa, 3498838</center>
 
@@ -25,7 +25,7 @@ https://github.com/alhassanmu/-alhassanmu_Notebook
 ## EDUCATION
 **2023-Till date** | Univeristy of Haifa  |  Marine Biology |    
 	- Master degree   
-		**- Thesis (tentative):** Impacts of elevated temperatures and oil pollution on physiology, survivability, and microbiome dynamics in the invasive Mediterranean mussel, Brachidontes pharaonis  
+		**- Thesis (tentative):** Impacts of elevated temperatures and oil pollution on physiology, survivability, and microbiome dynamics in the invasive Mediterranean mussel, *Brachidontes pharaonis*  
 		**- Advisors:** Prof. Gil Rilov
 		  
 		  
@@ -45,61 +45,129 @@ https://github.com/alhassanmu/-alhassanmu_Notebook
  
 
 ## Research Experience
-2022 | ***Universiy of Rhode Island - Rhode Island, USA***
-		- Supervisors - Dr. Hollie Putnam
-	- Effects of acute thermal stress and acute thermal priming on larvae of 	  the reef building coral *Pocillopora acuta*
-	- Genetic, functional and reproductive diversity of *Pocillopora sp.* in 	  the lagoon of Mo’orea.
+**Jan. 2024-Till date** | Part-time Research Assistant|   
+		- Berman-Frank Lab  
+	- The Laboratory of Biological Oceanography and Aquatic Ecology, Israel.  
+	- I participated in an applied environmental project (biodegradation of plastics).
+	1. Grew and maintained algae cultures.  
+2. •	Measured the cultures’ optical densities using plate reader and producing growth curves for them.  
 
-2021-2022 | ***Oregon State University – Tetiaroa, French Polynesia***
-		- Research Assistant - *Impacts of rat eradication on coral reef health*
-		- Supervisors - Drs. Rebecca Vega Thurber Hannah Epstein
-	- Coral surveys via transect, coral and water sampling for bacterial 	  analysis, multivariate and generalized linear statistical modeling in 	  R
+**Oct. 2022-July 2023** | Internship|  
+		- Blue-Green Research Lab  
+		- French Associates Institute for Agriculture and Biotechnology of Drylands (FAAB),Ben-Guriou University of Negev, Israel  
+		- Supervisors - Prof. Ronen Zeev and Dr. Nina Kamennaya  
+	- I explored the capacity of antioxidants to curb the dissemination of antibiotic-resistant bacteria and antibiotic-resistance genes in wastewater bacteria.  
+	1. 	Enumerated and isolated wastewater bacteria.   
+	2. 	Performed bacteria DNA and plasmid extraction and purification.  
+	3. 	Performed antibiotic resistance assay using the ETEST® strips.  
+	4. 	Counted viable bacterial cells and determined reactive oxygen species (ROS) production using the flow cytometry.  
+	5. 	Grew algae (Bracteacoccus spp.) under conditions to produce carotenoids and harvested them. 
 	
-2020-2021 | ***Tetiaroa Society– Tetiaroa, French Polynesia***
-		- Ranger 
-	- Marine Protected Area and Ecostation security patrols, fish 	  identification, field technical support to researchers (Lancaster 	  University, Oregon University) including spearfishing, snorkeling, 	  photogrammetry, drone piloting, 3D modeling, and rat trapping, 	  localization and eradication
+**Sept. 2021-Sept. 2022** | Research Assistant|  
+		- Spanish Laboratory Complex, University for Development Studies, Ghana.  
+	1. 	Isolated bacteria (E. coli, Staphylococcus, Pseudomonas, Salmonella, Listeria, Shigella, and Lactobacillus) from various samples  
+	2. 	Performed antibiotic resistance assays employing the Kirby-Bauer Disk Diffusion method.  
+	3. 	Performed biochemical assays to confirm presumptive isolates.  
+	4. 	Performed Polymerase Chain Reactions (PCR) and agarose gel electrophoresis.  
+	5. 	Performed DNA extraction and analyzed sequence results.
 
-2019-2020 | ***Centre de Recherches Insulaires et Observatoires de l’Environnement (CRIOBE) Mo’orea French Polynesia***   
-	*Effects of coral bleaching on coral reef cover and composition*   
-		- Supervisors – Dr. Laetitia Hédouin   
-	- Coral surveys via transect, coral photography, coral identification 	  and cover estimates, bleaching quantification, multivariate statistics 	  in R   
-	*Effects of ocean acidification on coral growth and metabolism*   
-		- Supervisors – Dr. Laetitia Hédouin   
-	- 3D scanning for volume, buoyant weight for bulk calcification, 	  Firesting Pyroscience oxygen optode respirometry   
-	*Effects of size of microfragmentation on coral growth*   
-		- Supervisors – Dr. Laetitia Hédouin   
-	- Coral fragment propagation of 10 species in the genera Acropora, 	  Montipora, Pocillopora, Porites, and Cyphastrea   
+## SCHOLARLY PUBLICATIONS
+-**Alhassan, M.**, Nzeh, J., Quansah, L., Dufailu, O. A. (2022). Antimicrobial Resistance Profile of *Staphylococcus* spp. and *Listeria* spp. isolated from Refrigerators of Retailers and Students in the Tolon District, Ghana. Journal of Food Safety and Hygiene, 8(2), 122-131. https://doi.org/10.18502/jfsh.v8i2.10673  
 
-2017 | ***Recif at Home***   
-	Coral Farmer   
-	- Supervisors – Mr. Boris Rota   
-	- Coral fragmentation, coral husbandry, coral health, species selection   
+	
+## CONFERENCE ABSTRACTS
+-**Alhassan, M.**, Nzeh, J., Quansah, L., Dufailu, O. A. (2022). *Staphylococcus* spp. and *Listeria* spp. Contamination of Students and Retailers’ Refrigerators and Antimicrobial Resistance Profile of Isolated Bacteria. 2022 Annual Interdisciplinary Conference (Book of Abstracts), 53-54.  
 
-### THESES, REPORTS AND PUBLICATIONS IN PREPARATION
-- Harnay P, Huffmyer A, Fellous A, Hedouin L, Putnam HM (In Preparation) Effects of thermal stress and thermal priming on larvae of the reef building coral *Pocillopora acuta*   
-- Effects of thermal stress and thermal priming on larvae of the reef building coral *Pocillopora acuta* - Master 2 Degree Thesis Report   
-- Évaluation du blanchissement corallien sur les coraux des lagons de Polynésie Française lors de l’épisode 2019 – Master 1 Degree Thesis Report   
-- Effet de l’acidification des océans sur les coraux scléractiniaires – Bachelor Degree Thesis Report   
-	   
-### SCHOLARSHIPS AND AWARDS
-- Master degree 1 and 2 Awarded with Honors   
-- Scholarships for academic excellence are not given in France, but are income based   
-- Technical Specialist Diploma (DU) Awarded with Honors   
+## DISSERTATIONS
+-**Alhassan, M.** (2021). Refrigerators: A Neglected Potential Source of Bacterial Infections on Nyankpala Campus of University for Development Studies, Tamale – Ghana. BSc. thesis, University for Development Studies, Tamale – Ghana.  
 
-### TEACHING AND EDUCATION
-- Université de Lorraine 
-	- Coral Reef Informational Presentations to Bachelor students   
-	- Coral Reef Informational Presentations to Highschool students 
-- French/English Translation of educational materials in person and online   
+## GenBank DEPOSITS
+-Achilo, M., Alhassan, M., Adzaworlu, E. G., Suraj, A. M., Agyekum, S., Iddi, S., Nzeh, J., Addy, F. and Dufailu, O. A. (2022). Escherichia coli. ON911461; 739 bp.
 
-### CONFERENCE
-- Benthic Ecology Meeting - NH, Portsmouth, USA 
-	- Effects of thermal stress and thermal priming on larvae of the reef 	  building coral *Pocillopora acuta*
+-Achilo, M., Alhassan, M., Adzaworlu, E. G., Suraj, A. M., Agyekum, S., Iddi, S., Nzeh, J., Addy, F. and Dufailu, O. A. (2022). Enterobacter cloacae. ON911459; 635 bp.  
 
-### SKILLS 
-- PADI Advanced Open Water SCUBA Diving
-- Permis Mer – French Boating License for Coastal Waters
-- Languages – French (Native), English (Fluent oral and written)
-- Software – R/Rstudio, QGIS, Microsoft Excel/Word/Powerpoint, Adobe Photoshop, GitHub
+-Dufailu, O. A., Brown, P. K., Issah, S. D., Honu, E., Agyeman, M., Appau, M. A., Zakaria, R. C., Osuji, R., Alhassan, M., Alhassan, A. S., Asare, M. N., Adzaworlu, E. G., Addy, F. and Quansah, L. (2022). Atlantibacter hermannii. ON797687; 723 bp.
+
+## WORKSHOPS/SEMINARS/CONFERENCESLS 
+1. Poster Presenter: The 10th Academic Get-Together of the Department of Marine Biology, University of Haifa, Haifa – Israel.
+2. Participant: The 9th Haifa Winter Workshop on Bioinformatics. University of Haifa, Haifa - Israel, 17th-21st March 2024.
+3. Participant: The 18th Conference of the Israeli Association for Aquatic Sciences. Steinhardt Museum of Natural History, Tel Aviv University, Israel, 11th February 2024. 
+4. Participant: The Water Research Foundation: Assessing Health and Environmental Risks Posed by Antimicrobial Resistance in Water, Virtual – 13th April 2023.
+5. Participant: The 5th Graduate Student Conference: Water Research in Israel. Grand Water Research Institute, Technion, Israel, 22nd December 2022.
+6. Participant: The 8th International Conference on Drylands, Deserts, and Desertification: Learning from the Drylands Towards Ecosystem Restoration. The Jacob Blaustein Institutes for Desert Research, Sde Boker Campus, Ben-Gurion University of the Negev – Israel, 27th November – 1st December 2022.
+7. Oral Presenter: 15th Annual Interdisciplinary Conference. Contemporary Global Crises: Threats and Opportunities for Research and Academia Freedom, University for Development Studies, Tamale – Ghana, 7th – 8th September 2022.
+8. Participant: Microbiological Practical Course, University for Development Studies, Tamale - Ghana, November 2021.
+9. Participant: Practical Course in Service-Learning, University for Development Studies, Tamale - Ghana, November 2021.
+
+## WORKING EXPERIENCE
+
+**Sept. 2021-Sept. 2022**|Teaching and Research Assistant|  
+-National Service Scheme, Department of Biotechnology, University for Development Studies, Tamale, Ghana
+
+**Responsibilities:** Organizing tutorials for undergraduate students, guiding students in their dissertation writings, providing laboratory assistantship to undergraduate students, assisting lecturers in my department in their research works, marking examination scripts, and other administrative activities.
+
+**July 2018-Sept. 2018** |On-Ground Activity Supervisor|
+-Prop Haven Company, Accra, Ghana  
+**Responsibilities:** Monitoring on-ground activities in and out of the company’s area.
+
+**Oct. 2016-Aug.2017** |Manager|  
+-Party Concept Supermarket, Accra, Ghana  
+**Responsibilities:** Management of sales and accounts of the supermarket.
+
+## LEADERSHIP POSITIONS/EXPERIENCES
+
+**Normalization Committee Chairman:** Biotechnology Students Association-Ghana, Nyankpala campus, University for Development Studies. 2020 – 2021.
+
+**Deputy Commanding Officer:** Army Cadet Corps, Nyankpala campus, University for Development Studies. 2020 – 2021.
+
+**General Assembly Member:** Student’s Representative Council, Nyankpala campus, University for Development Studies. 2019 - 2020
+
+**Vice-president:** Biotechnology Students Association-Ghana, Nyankpala campus, University for Development Studies. 2019 - 2020
+
+**Cadet Adjutant:** Army Cadet Corps, Nyankpala campus, University for Development Studies	2019 – 2020.
+
+**Group Leader:** Third Trimester Field Practical Programme (Boamasa community), University for Development Studies	May – July 2019.
+
+**Public Relations Officer:** Army Cadet Corps, Nyankpala campus, University for Development Studies 2018 – 2019.
+
+## VOLUNTARY SERVICES
+
+Community Health Volunteer: Health, Education, Research and Policy Organization (HERPol – Africa), Tamale, Northern Region, Ghana; October 2021 – November 2021.  
+• Played an active role in educating/sensitizing rural people on COVID-19 safety protocols. 
+
+Community Health Volunteer: Health, Education, Research and Policy Organization (HERPol – Africa), Tamale, Northern Region, Ghana; 5th December 2020 – 30th December 2020.   
+• Played an active role in educating deprived communities on COVID-19, sharing paraphernalia, and writing reports. 
+
+## PERSONAL SKILLS
+1. Verbal and written communication
+2. Leadership skills
+3. Adaptability
+4. Teaching
+
+## HOBBIES
+1. Watching documentaries
+2. Watching and playing football
+3. Cooking
+
+## REFEREES
+
+Prof. Gil Rilov, Ph.D.  
+Head, Marine Community Ecology Lab  
+Israel Oceanographic and Limnological Research (IOLR)  
+Email: rilovg@ocean.org.il
+
+Osman Adamu Dufailu, Ph.D.  
+Senior Lecturer, Faculty of Engineering and Science   
+University of Greenwich, Medway – United Kingdom  
+Email: o.a.dufailu@greenwich.ac.uk
+
+Lydia Quansah, Ph.D.  
+Senior Lecturer, Head of Forensic Department  
+University for Development Studies, Tamale – Ghana,  
+Email: lquansah@uds.edu.gh
+
+
+
+
 
 
