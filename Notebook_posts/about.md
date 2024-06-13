@@ -4,32 +4,39 @@ title: About
 permalink: /about/
 ---
 
-I am futur PhD student in marine ecology and physiology science in PutnamLAb. My project will be based on Genetic, functional and reproductive diversity of Pocillopora in the lagoon of Mo’orea. 
+I am an MSc student at the University of Haifa and studying the impact of multiple stressors on marine organisms physiology and gut microbiome changes. 
  
 
 ### More Information
 
-https://pierrickharnay.github.io/PierrickHarnay_Notebook/
+https://github.com/alhassanmu/-alhassanmu_Notebook
 
 ### Contact me
 
-[pierrick.harnay@gmail.com](mailto:Pierrick_harnay@uri.com)
+[alhassanmu1766@uds.edu.gh](mailto:Pierrick_harnay@uri.com)
 
 
-## <center>PIERRICK E. HARNAY</center><center>Department of Biological Sciences</center><center>University of Rhode Island</center><center>120 Flagg Road, Kingston RI 02881</center>### EDUCATION2021-2022 | **Université Paris Sorbonne** | **École Pratique des Hautes Études (EPHE)**   
-	- Master degree 2  
-		- Biodiversity and Environment, Integrative Master of 		  Global Health and Ecology with honours   
-		- Course Locations: Sorbonne (Paris), CNRS (Montpellier), and CRIOBE
-		  (Perpignan France and Mo’orea French Polynesia)  
+## <center>Alhassan Mukaila</center>
+<center>Department of Marine Sciences</center>
+<center>University of Haifa </center>
+<center>Abba Khoushy Ave 199, Haifa, 3498838</center>
+
+
+### EDUCATION
+**2023-Till date** | Univeristy of Haifa  |  Marine Biology |    
+	- Master degree   
+		**- Thesis (tentative):** Impacts of elevated temperatures and oil pollution on physiology, survivability, and microbiome dynamics in the invasive Mediterranean mussel, Brachidontes pharaonis  
+		**- Advisors:** Prof. Gil Rilov
 		  
-2019-2020 | **Université Paris Sorbonne** | **EPHE**   
-	- Master degree 1   
-		- Biodiversity and Environment, Integrative Master of Global Health 		  and Ecology with honours   
-		- Course Locations: Sorbonne (Paris), CNRS (Montpellier, Dinard), 		  and CRIOBE (Perpignan)  
-		
-2018-2019 | **Université de Lorraine** | **Institut Universitaire Technologique Nancy- Brabois**  
-	- Professional Bachelor degree   
-		- Continental Aquaculture and Aquariology with honours   
+		  
+**2017-2021** | University for Development Studies  | Biotechnology and Molecular Biology  
+	- BSc.   
+		**- Thesis:** Refrigerators: A neglected potential source of bacterial infections on the Nyankpala campus of the University for Development Studies, Tamale-Ghana  
+		- **Advisors:** Drs. Osman A. Dufailu and Lydia Quansah
+
+**2013-2016** | Tamale Senior High School | General Science  
+	- West African Senior School Certificate Examination (WASSCE)    
+		**- Grade:** Aggregate 15  
 		
 2016-2017 | **Université de Montpellier** | **Continuing Education Department**   
 	- Technical Specialist Diploma (DU)  
@@ -38,7 +45,8 @@ https://pierrickharnay.github.io/PierrickHarnay_Notebook/
 2013-2016 | **Lycée Jeanne Antide**   
 *2015-2016* Certificate of competence for the sale of non-domestic animals of captive wildlife (List E5-E7, TCVA)   
 *2013-2015* Professional baccalaureate Technician Sales Consultant in Pet Shop   
-### Professional Experience
+
+### Professional Experience
 2022 | ***Universiy of Rhode Island - Rhode Island, USA***
 		- Supervisors - Dr. Hollie Putnam
 	- Effects of acute thermal stress and acute thermal priming on larvae of 	  the reef building coral *Pocillopora acuta*
@@ -68,20 +76,25 @@ https://pierrickharnay.github.io/PierrickHarnay_Notebook/
 	Coral Farmer   
 	- Supervisors – Mr. Boris Rota   
 	- Coral fragmentation, coral husbandry, coral health, species selection   
-### THESES, REPORTS AND PUBLICATIONS IN PREPARATION
+
+### THESES, REPORTS AND PUBLICATIONS IN PREPARATION
 - Harnay P, Huffmyer A, Fellous A, Hedouin L, Putnam HM (In Preparation) Effects of thermal stress and thermal priming on larvae of the reef building coral *Pocillopora acuta*   
 - Effects of thermal stress and thermal priming on larvae of the reef building coral *Pocillopora acuta* - Master 2 Degree Thesis Report   
 - Évaluation du blanchissement corallien sur les coraux des lagons de Polynésie Française lors de l’épisode 2019 – Master 1 Degree Thesis Report   
 - Effet de l’acidification des océans sur les coraux scléractiniaires – Bachelor Degree Thesis Report   
-	   ### SCHOLARSHIPS AND AWARDS
+	   
+### SCHOLARSHIPS AND AWARDS
 - Master degree 1 and 2 Awarded with Honors   
 - Scholarships for academic excellence are not given in France, but are income based   
 - Technical Specialist Diploma (DU) Awarded with Honors   
-### TEACHING AND EDUCATION
+
+### TEACHING AND EDUCATION
 - Université de Lorraine 
 	- Coral Reef Informational Presentations to Bachelor students   
 	- Coral Reef Informational Presentations to Highschool students 
-- French/English Translation of educational materials in person and online   ### CONFERENCE
+- French/English Translation of educational materials in person and online   
+
+### CONFERENCE
 - Benthic Ecology Meeting - NH, Portsmouth, USA 
 	- Effects of thermal stress and thermal priming on larvae of the reef 	  building coral *Pocillopora acuta*
 
@@ -89,4 +102,6 @@ https://pierrickharnay.github.io/PierrickHarnay_Notebook/
 - PADI Advanced Open Water SCUBA Diving
 - Permis Mer – French Boating License for Coastal Waters
 - Languages – French (Native), English (Fluent oral and written)
-- Software – R/Rstudio, QGIS, Microsoft Excel/Word/Powerpoint, Adobe Photoshop, GitHub
+- Software – R/Rstudio, QGIS, Microsoft Excel/Word/Powerpoint, Adobe Photoshop, GitHub
+
+
