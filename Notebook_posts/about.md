@@ -17,12 +17,12 @@ https://github.com/alhassanmu/-alhassanmu_Notebook
 
 
 ## <center>Alhassan Mukaila</center>
-<center>Department of Marine Sciences</center>
+<center>Department of Marine Biology</center>
 <center>University of Haifa </center>
 <center>Abba Khoushy Ave 199, Haifa, 3498838</center>
 
 
-### EDUCATION
+## EDUCATION
 **2023-Till date** | Univeristy of Haifa  |  Marine Biology |    
 	- Master degree   
 		**- Thesis (tentative):** Impacts of elevated temperatures and oil pollution on physiology, survivability, and microbiome dynamics in the invasive Mediterranean mussel, Brachidontes pharaonis  
@@ -34,19 +34,17 @@ https://github.com/alhassanmu/-alhassanmu_Notebook
 		**- Thesis:** Refrigerators: A neglected potential source of bacterial infections on the Nyankpala campus of the University for Development Studies, Tamale-Ghana  
 		- **Advisors:** Drs. Osman A. Dufailu and Lydia Quansah
 
-**2013-2016** | Tamale Senior High School | General Science  
+**2013-2016** | Tamale Senior High School | General Science |  
 	- West African Senior School Certificate Examination (WASSCE)    
 		**- Grade:** Aggregate 15  
 		
-2016-2017 | **Université de Montpellier** | **Continuing Education Department**   
-	- Technical Specialist Diploma (DU)  
-		- Aquaculture   
+**2011-2013** | Martin Luther Educational Complex |   
+	- Basic Education Certificate Examination (BECE)   
+		**- Grade:** Aggregate 7   
 		
-2013-2016 | **Lycée Jeanne Antide**   
-*2015-2016* Certificate of competence for the sale of non-domestic animals of captive wildlife (List E5-E7, TCVA)   
-*2013-2015* Professional baccalaureate Technician Sales Consultant in Pet Shop   
+ 
 
-### Professional Experience
+## Research Experience
 2022 | ***Universiy of Rhode Island - Rhode Island, USA***
 		- Supervisors - Dr. Hollie Putnam
 	- Effects of acute thermal stress and acute thermal priming on larvae of 	  the reef building coral *Pocillopora acuta*
