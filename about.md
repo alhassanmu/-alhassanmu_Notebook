@@ -17,7 +17,7 @@ https://github.com/alhassanmu/-alhassanmu_Notebook
 
 
 ## <center>Alhassan Mukaila</center>
-<center>Department of Marine Sciences</center>
+<center>Department of Marine Biology</center>
 <center>University of Haifa </center>
 <center>Abba Khoushy Ave 199, Haifa, 3498838</center>
 
@@ -29,7 +29,7 @@ https://github.com/alhassanmu/-alhassanmu_Notebook
 		**- Advisors:** Prof. Gil Rilov
 		  
 		  
-**2017-2021** | University for Development Studies  | Biotechnology and Molecular Biology  
+**2017-2021** | University for Development Studies  | Biotechnology and Molecular Biology|  
 	- BSc.   
 		**- Thesis:** Refrigerators: A neglected potential source of bacterial infections on the Nyankpala campus of the University for Development Studies, Tamale-Ghana  
 		- **Advisors:** Drs. Osman A. Dufailu and Lydia Quansah
