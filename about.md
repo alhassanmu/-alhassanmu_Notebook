@@ -88,7 +88,7 @@ https://github.com/alhassanmu/-alhassanmu_Notebook
 
 -Dufailu, O. A., Brown, P. K., Issah, S. D., Honu, E., Agyeman, M., Appau, M. A., Zakaria, R. C., Osuji, R., Alhassan, M., Alhassan, A. S., Asare, M. N., Adzaworlu, E. G., Addy, F. and Quansah, L. (2022). Atlantibacter hermannii. ON797687; 723 bp.
 
-## WORKSHOPS/SEMINARS/CONFERENCESLS 
+## WORKSHOPS/SEMINARS/CONFERENCES
 1. Poster Presenter: The 10th Academic Get-Together of the Department of Marine Biology, University of Haifa, Haifa – Israel.
 2. Participant: The 9th Haifa Winter Workshop on Bioinformatics. University of Haifa, Haifa - Israel, 17th-21st March 2024.
 3. Participant: The 18th Conference of the Israeli Association for Aquatic Sciences. Steinhardt Museum of Natural History, Tel Aviv University, Israel, 11th February 2024. 
