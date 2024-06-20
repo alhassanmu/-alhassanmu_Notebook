@@ -1,6 +1,6 @@
 # **Primer Design for *Endozoicomonas*, a Genus of γ-Proteobacteria in the Family *Endozoicomonadaceae***
 
-![alt text](../images/)   
+![alt text](../images/Primers.png)   
 Figure 1: 
 
 ## **Selection of Sequences**
