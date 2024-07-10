@@ -21,21 +21,43 @@ This method assumes that the PCR efficiencies of the target and reference genes 
 
 ## **Data Provided**
 
-Table
+
+
+### Cycle Threshold (Ct)
+
+|                | ubi  | Rac1 | RhoA | CDC42 | Rock1 | Vegf | VegfR | RhoGap24l/2 |
+|----------------|------|------|------|-------|-------|------|-------|-------------|
+| **DMSO Control**     | 20.72 | 25.65 | 29.13 | 28.45 | 28.28 | 29.71 | 28.61 | 29.48       |
+| **Inhibitor treatment** | 19.89 | 25.34 | 28.41 | 27.38 | 28.01 | 28.85 | 28.36 | 30.45       |
 
 ## **Delta Cycle Threshold (ΔCt): ΔCt = Ct target − Ct reference**
 
-Table
+
+
+|                        | Rac1 | RhoA | CDC42 | Rock1 | Vegf | VegfR | RhoGap24l/2 |
+|------------------------|------|------|-------|-------|------|-------|-------------|
+| **DMSO Control**       | 4.94 | 8.41 | 7.73  | 7.56  | 8.99 | 7.90  | 8.76        |
+| **Inhibitor treatment**| 5.44 | 8.51 | 7.48  | 8.11  | 8.95 | 8.47  | 10.56       |
 
 ## **Delta-Delta Cycle Threshold (ΔΔCt)**: ΔΔCt = ΔCt experimental − ΔCt control
 
-Table
+
+
+|                | Rac1 | RhoA | CDC42 | Rock1 | Vegf | VegfR | RhoGap24l/2 |
+|----------------|------|------|-------|-------|------|-------|-------------|
+| **Value**      | 0.51 | 0.10 | -0.25 | 0.55  | -0.04| 0.57  | 1.79        |
 
 ## **Fold Change**: 2<sup> −ΔΔCt</sup> 
 
-Table
 
- 
+
+|                | Rac1 | RhoA | CDC42 | Rock1 | Vegf | VegfR | RhoGap24l/2 |
+|----------------|------|------|-------|-------|------|-------|-------------|
+| **Value**      | 0.72 | 0.94 | 1.17  | 0.70  | 1.03 | 0.69  | 0.32        |
+
+![alt text](../images/qPCR%20data%20analysis_Prashant's%20data.png)
+Figure 1: Various gene expressions 
+
 
  
 
