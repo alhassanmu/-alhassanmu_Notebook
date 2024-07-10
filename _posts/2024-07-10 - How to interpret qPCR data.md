@@ -58,6 +58,10 @@ This method assumes that the PCR efficiencies of the target and reference genes 
 ![alt text](../images/qPCR%20data%20analysis_Prashant's%20data.png)   
 Figure 1: Various gene expressions 
 
+## **Conclusion**
+
+Since the fold change value of the reference gene (ubi) is 1, it indicates that only CDC42 and VegfR were upregulated.
+
 
  
 
