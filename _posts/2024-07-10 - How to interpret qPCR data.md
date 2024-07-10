@@ -12,7 +12,7 @@ Below is a brief description of the steps involved:
 
 3. **Comparison Between Samples (ΔΔCt Calculation)**: Compare the ΔCt values between the experimental sample and the control sample. Subtract the ΔCt of the control sample from the ΔCt of the experimental sample: ΔΔCt = ΔCt experimental − ΔCt control
 
-Fold Change Calculation: Calculate the relative expression level (fold change) of the target gene in the experimental sample compared to the control sample using the formula: Fold Change = 2<sup> −ΔΔCt</sup> 
+4. **Fold Change Calculation**: Calculate the relative expression level (fold change) of the target gene in the experimental sample compared to the control sample using the formula: Fold Change = 2<sup> −ΔΔCt</sup> 
 
 ### **Note:** 
 This method assumes that the PCR efficiencies of the target and reference genes are approximately equal and that the reference gene is stably expressed across all samples.
@@ -55,7 +55,7 @@ This method assumes that the PCR efficiencies of the target and reference genes 
 |----------------|------|------|-------|-------|------|-------|-------------|
 | **Value**      | 0.72 | 0.94 | 1.17  | 0.70  | 1.03 | 0.69  | 0.32        |
 
-![alt text](../images/qPCR%20data%20analysis_Prashant's%20data.png)
+![alt text](../images/qPCR%20data%20analysis_Prashant's%20data.png)   
 Figure 1: Various gene expressions 
 
 
