@@ -70,5 +70,8 @@ To ensure accurate and reliable quantification of HSP70 expression levels, it is
 
 4. **In the mantle tissue:** The most suitable combination of reference genes for normalization was GAPDH, rps4, and 40S ribosomal protein S27.
 
+Before finalizing the reference genes, I will perform a preliminary validation to ensure their stability under the specific experimental conditions of my study. This validation will involve assessing the expression stability of these candidate reference genes across all samples and conditions.
+
+By carefully selecting and validating stable reference genes, I will ensure accurate normalization of HSP70 expression levels, leading to reliable and meaningful results.
 
 

@@ -47,7 +47,7 @@ This method assumes that the PCR efficiencies of the target and reference genes 
 |----------------|------|------|-------|-------|------|-------|-------------|
 | **Value**      | 0.51 | 0.10 | -0.25 | 0.55  | -0.04| 0.57  | 1.79        |
 
-## **Fold Change**: 2<sup> −ΔΔCt</sup> 
+## **Fold Change**: 1.9<sup> −ΔΔCt</sup>: For the sake of the class, we used 1.9 as the PCR efficiency and for this calculation 
 
 
 
