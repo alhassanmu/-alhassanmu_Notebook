@@ -13,7 +13,7 @@ I could not identify the particular sequence that codes for HSP70 in *B. pharaon
 I then aligned the five downloaded sequences using  [CLUSTALW](https://www.genome.jp/tools-bin/clustalw). This helped me identify the conserved and variable regions of the sequences. I proceeded with the conserved regions for the primer design.
 
 ![alt text](../images/Alignment_Mytilus.png)  
-Figure: Multiple sequence alignment of the *Mytilus* species
+Figure 1: Multiple sequence alignment of the *Mytilus* species
 
 ## **Picking of Primers**
 
@@ -60,7 +60,7 @@ By testing HSP70 expression under these various conditions, I aim to gain compre
 
 # **Choice of Reference Genes**
 
-To ensure accurate and reliable quantification of HSP70 expression levels, it is crucial to select appropriate reference genes for normalization in qPCR analysis. The reference genes should be stably expressed across all experimental conditions. For Brachidontes pharaonis, I will consider the following reference genes as validated in the work of [Martinez-Escauriza et al., 2018](https://sci-hub.se/10.2983/035.037.0108).
+To ensure accurate and reliable quantification of HSP70 expression levels, it is crucial to select appropriate reference genes for normalization in qPCR analysis. The reference genes should be stably expressed across all experimental conditions. For *Brachidontes pharaonis*, I will consider the following reference genes as validated in the work of [Martinez-Escauriza et al., 2018](https://sci-hub.se/10.2983/035.037.0108).
 
 1. **Glyceraldehyde-3-phosphate dehydrogenase (GAPDH):** The authors of the paper recommended using GAPDH as a suitable reference gene for mussel studies, specifically in *M. galloprovincialis* which is of the family as *B. pharaonis*.
 
@@ -69,6 +69,9 @@ To ensure accurate and reliable quantification of HSP70 expression levels, it is
 3. **Cytochrome c oxidase subunit 1 (cox1):** This gene also demonstrated a stable expression and particularly for normalization in the digestive gland and gill tissues.
 
 4. **In the mantle tissue:** The most suitable combination of reference genes for normalization was GAPDH, rps4, and 40S ribosomal protein S27.
+
+![alt text](../images/MSA%20and%20primer%20design_GAPDH.png)
+Figure 3: Multiple sequence alignments and primer design of sequences for the reference gene, GAPDH. 
 
 Before finalizing the reference genes, I will perform a preliminary validation to ensure their stability under the specific experimental conditions of my study. This validation will involve assessing the expression stability of these candidate reference genes across all samples and conditions.
 
