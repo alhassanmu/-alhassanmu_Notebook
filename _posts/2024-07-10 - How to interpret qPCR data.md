@@ -63,8 +63,6 @@ Figure 1: Various gene expressions
 Since the fold change value of the reference gene (ubi) is 1, it indicates that only CDC42 and VegfR were upregulated.
 
 
- 
-
 
 
 ​
