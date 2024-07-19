@@ -6,7 +6,8 @@ I began by loading and examining the contents of the two provided CSV files. Thi
 
 ## **Steps Taken:**
 
- ### **1.	Selection of taxonomic group:** I chose algae for analysis.
+ ### **1.	Selection of taxonomic group:** 
+ I chose algae for analysis.
  ### **2.	Analysis of algae coverage:**
  Respect to site, season, and seafloor depth.  
  Interaction with other taxonomic groups.
@@ -43,7 +44,7 @@ Figure 3: Boxplot of algae coverage between the two samplers
 
 ## **Interaction Analysis**
 
-I examined the interaction between algae coverage and another taxonomic group, Bryozoa. The correlation between algae and Bryozoa was visualized using a scatter plot (figure 4). I transformed the square matrix to a log format and adjusted the p-value using the Benjamini-Hochberg (BH) method. I downloaded and output file name “Taxonomic_groups_spearman”.
+I examined the interaction between algae coverage and another taxonomic group, Bryozoa. The correlation between algae and Bryozoa was visualized using a scatter plot (figure 4). I transformed the square matrix to a log format and adjusted the p-value using the Benjamini-Hochberg (BH) method. I downloaded an output file name “Taxonomic_groups_spearman”.
 
 ![alt text](../images/Correlation%20(Algae%20vs%20Bryozoa).png)
 
