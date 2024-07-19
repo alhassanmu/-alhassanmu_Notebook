@@ -50,6 +50,12 @@ I examined the interaction between algae coverage and another taxonomic group, B
 
 Figure 4: Spearman correlation between algae and Bryozoa
 
+## **Conclusion**
+
+The Spearman correlation analysis revealed a strong and statistically significant negative correlation between algae and Bryozoa coverage (r=−0.742, p=0). This finding suggests that Bryozoa coverage tends to decrease significantly as algae coverage increases. This negative interaction could be due to competition for resources such as space, light, or nutrients, or differing habitat preferences. Understanding this relationship is crucial for ecological studies, environmental monitoring, and resource management, as it provides insights into the dynamics of the benthic community and helps in developing effective conservation strategies.
+
+
+
 
 
 
