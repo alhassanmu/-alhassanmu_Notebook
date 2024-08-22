@@ -13,7 +13,7 @@ https://github.com/alhassanmu/-alhassanmu_Notebook
 
 ### Contact me
 
-[alhassanmu1766@uds.edu.gh](mailto:Pierrick_harnay@uri.com)
+[alhassanmu1766@uds.edu.gh](mailto:alhassanmu1766@uds.edu.gh)
 
 
 ## <center>Alhassan Mukaila</center>
